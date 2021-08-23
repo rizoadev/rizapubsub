@@ -1,0 +1,5 @@
+pymongo
+dnspython
+pydantic
+google-cloud
+asyncio
